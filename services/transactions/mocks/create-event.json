@@ -1,0 +1,8 @@
+{
+  "body": "{\"description\":\"Financiamento Carro\",\"amount\":-49900,\"date\":\"2020-02-15\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
